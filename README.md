@@ -1,5 +1,5 @@
 # JS_Example_simplepager
-> Javascript simple table paginator
+> Javascript simple table pager
 
 This example shows how to use javascript to page a long table. The data source is local in this example, whereas in the Java_Example_Ajax_Pager_Async project we will get the table pages via AJAX.
 
